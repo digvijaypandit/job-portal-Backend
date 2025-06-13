@@ -7,7 +7,7 @@ A RESTful backend for a job portal application built with Node.js, Express, and 
 ### Frontend Repository
 
 This backend works together with the frontend application, which you can find here:
-**[Job Portal Frontend GitHub Repository](https://github.com/digvijaypandit/job-portal-Frontend)**
+**[Job Portal Frontend GitHub Repository][(https://github.com/digvijaypandit/job-portal-Frontend)](https://github.com/digvijaypandit/job-portal-in-react)**
 
 ---
 
