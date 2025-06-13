@@ -6,7 +6,7 @@ import {
   getGlobalQuiz,
   submitGlobalQuizAnswers,
   getQuizQuestions
-} from "../controllers/Quiz.controller.js";
+} from "../controllers/quiz.controller.js";
 
 const router = express.Router();
 
